@@ -4,6 +4,8 @@ I forked from https://github.com/danielkhan/building-website-nodejs-express.git
 
 I will be doing some updates based on later versions of NPM modules being available, but I doubt anything I do will be of interest to him.
 
+He actually did not put any license file in his repository, but I took the course and assume I can use the files.
+
 The rest of the README is from Daniel Kahn.
 
 # Building a website with Node.js and Express
