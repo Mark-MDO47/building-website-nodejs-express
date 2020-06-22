@@ -4,7 +4,11 @@ I forked from https://github.com/danielkhan/building-website-nodejs-express.git
 
 I will be doing some updates based on later versions of NPM modules being available, but I doubt anything I do will be of interest to him.
 
-He actually did not put any license file in his repository, but I took the course and assume I can use the files.
+He actually did not put any license file in his repository, but I took the course and the repository is open so I assume I can use the files.
+
+As for any changes I make, those changes would be available to anyone under the unlicense; see https://unlicense.org/
+
+I cannot otherwise speak for what licensing terms Daniel Kahn feels apply to his repository.
 
 The rest of the README is from Daniel Kahn.
 
