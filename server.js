@@ -2,6 +2,7 @@ const express = require('express');
 const path = require('path');
 const cookieSession = require('cookie-session');
 const createError = require('http-errors');
+const helmet = require('helmet'); // http://expressjs.com/en/advanced/best-practice-security.html
 
 const bodyParser = require('body-parser');
 
@@ -14,6 +15,8 @@ const speakersService = new SpeakersService('./data/speakers.json');
 const routes = require('./routes');
 
 const app = express();
+
+app.use(helmet());
 
 app.locals.siteName = 'ROUX Academy';
 
