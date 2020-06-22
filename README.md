@@ -1,6 +1,20 @@
+# This is my forked copy of Daniel Kahn's brilliant course materials
+
+I forked from https://github.com/danielkhan/building-website-nodejs-express.git
+
+I will be doing some updates based on later versions of NPM modules being available, but I doubt anything I do will be of interest to him.
+
+He actually did not put any license file in his repository, but I took the course and the repository is open so I assume I can use the files.
+
+As for any changes I make, those changes would be available to anyone under the unlicense; see https://unlicense.org/
+
+I cannot otherwise speak for what licensing terms Daniel Kahn feels apply to his repository.
+
+The rest of the README is from Daniel Kahn.
+
 # Building a website with Node.js and Express
 
-This repository contains the code for my course 'Building Bots with Node.js' on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/daniel-khan).
+This repository contains the code for my course 'Building a Website with Node.js Node.js' on [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3).
 
 The master branch contains the initial version to get started with, while the branches contain the state of the code at the beginning (e.g. 02_02**b**) and end (e.g. 02_02**e**) of a video.
 
