@@ -1,6 +1,10 @@
-# this is my forked copy of Daniel Kahn's brilliant course materials
+# This is my forked copy of Daniel Kahn's brilliant course materials
 
 I forked from https://github.com/danielkhan/building-website-nodejs-express.git
+
+I will be doing some updates based on later versions of NPM modules being available, but I doubt anything I do will be of interest to him.
+
+The rest of the README is from Daniel Kahn.
 
 # Building a website with Node.js and Express
 
