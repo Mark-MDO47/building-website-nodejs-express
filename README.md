@@ -10,6 +10,14 @@ As for any changes I make, those changes would be available to anyone under the 
 
 I cannot otherwise speak for what licensing terms Daniel Kahn feels apply to his repository.
 
+Things I did:
+
+- eslint and prettier the way I like them
+- For security, update nodemon to 2.0.4 and express-validator to 6.5.0. Add helmet at 3.23.0.
+- use new NPM module helmet
+- minor reformat with language=en
+- update jquery popper and bootstrap for security & minor tweaks
+
 The rest of the README is from Daniel Kahn.
 
 # Building a website with Node.js and Express
@@ -20,13 +28,14 @@ The master branch contains the initial version to get started with, while the br
 
 ## Setting up the project
 
-* In your terminal, create directory `building-website-nodejs-express` and **change into it**.
-* Run 
+- In your terminal, create directory `building-website-nodejs-express` and **change into it**.
+- Run
+
   ```bash
   git clone --bare git@github.com:danielkhan/building-website-nodejs-express.git .git
   git config --bool core.bare false
   git reset --hard
   git branch
   ```
-  
+
 Everything else will be discussed in my course.
